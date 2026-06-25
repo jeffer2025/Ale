@@ -12,7 +12,6 @@
 ## ✨ Cosas que me gustan
  
 - 🎮 Me gusta jugar videojuegos en mi tiempo libre
-- 📚 
 - 🎵 Me gusta escuchar musica
 - 🚀 ME gusta hacer cosas nuevas 
 ---
@@ -21,11 +20,10 @@
  
 <p align="left">
   <img src="https://img.shields.io/badge/-HTML-000000?style=flat-square" alt="HTML"/>
-  <img src="https://img.shields.io/badge/-MySQL-000000?style=flat-square" alt="MySQL"/>
   <img src="https://img.shields.io/badge/-MARIADB-000000?style=flat-square" alt="PYTHON"/>
   <img src="https://img.shields.io/badge/-CSS-000000?style=flat-square" alt="CSS"/>
 </p>
-<img src="https://skillicons.dev/icons?i=python,MySQL,html,css"
+<img src="https://skillicons.dev/icons?i=python,html,css"
 
 ---
  
